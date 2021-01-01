@@ -1,8 +1,8 @@
 # 基于宝塔面板的sspanel-v3-mod-uim一键安装脚本：   
 
 * 在线演示：暂无   
-* 本人博客：https://www.7colorblog.com  
-* 七彩杂铺货：https://faka.7colorblog.com  
+* 本人博客：www.jcink.cn 
+*
 
 #安装教程
 
@@ -21,7 +21,7 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.
 
 ## 安装脚本
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/lizhongnian/sspanel-v3-mod-uim-bt/master/sspanel-v3-mod-uim-bt.sh &&
+wget -N --no-check-certificate https://raw.githubusercontent.com/jcink520/sspanel-v3-mod-uim-bt/master/sspanel-v3-mod-uim-bt.sh &&
 chmod +x sspanel-v3-mod-uim-bt.sh &&
 bash sspanel-v3-mod-uim-bt.sh
 ```
